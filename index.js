@@ -1,7 +1,7 @@
 (function(root) {
   var angular = (typeof require === 'function') ? require('angular') : root.angular
 
-  angular.module('fs.imagey', []).filter('imagey', function() {
+  angular.module('imagey', []).filter('imagey', function() {
     //                   Detect if we're in an anchor
     //                   |                          Domain
     //                   |                            |           TLD

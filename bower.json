@@ -1,6 +1,6 @@
 {
   "name": "imagey-filter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A filter for turning URLs into IMG tags",
   "main": "index.js",
   "authors": [
@@ -10,6 +10,7 @@
   "ignore": [
     "**/.*",
     "node_modules",
+    "package.json",
     "bower_components",
     "test",
     "tests"

@@ -1,0 +1,18 @@
+{
+  "name": "imagey-filter",
+  "version": "1.0.0",
+  "description": "A filter for turning URLs into IMG tags",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "author": "Paul Sweeney <paul@8-bitdesign.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.17.1",
+    "angular": "~1.2.10"
+  }
+}
